@@ -16,7 +16,7 @@ softwareupdate --install-rosetta
 ## Install
 
 ```
-asdf plugin-add protoc https://github.com/paxosglobal/asdf-protoc.git
+asdf plugin-add protoc https://github.com/dsaouda/asdf-protoc.git
 ```
 
 ## Use
